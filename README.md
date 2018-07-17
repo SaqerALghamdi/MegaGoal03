@@ -65,6 +65,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
   * #### -----------------------EXPANTION 1-3 ---------------
   * #### TV around the world
     - [x] Discuss types of TV programs Express and explain preferences Express certainty Talking about festivals.
-    - [x] Direct and indirect [objects](https://en.wikipedia.org/wiki/Object_(grammar)) To and for before indirect objects ArticlesAdjective clauses and relative pronounsRelative pronouns as subjects and objects.
-
-#### add your ideas
+    - [x] Direct and indirect [objects](https://en.wikipedia.org/wiki/Object_(grammar)) To and for before indirect objects ArticlesAdjective clauses and relative pronounsRelative pronouns as subjects and objects.  
+    -[ ] Listen for specific information about a game show.
+    -[ ] Reduction of going to and want to.
+#### 
